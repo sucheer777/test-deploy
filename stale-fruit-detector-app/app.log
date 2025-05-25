@@ -1,0 +1,543 @@
+2025-05-24 14:34:11,207 - WARNING - Background image not found: C:\Users\desktop_files\Desktop\wp10992174.webp
+2025-05-24 14:34:11,207 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 14:34:11,418 - INFO - Successfully loaded ImageNet classes
+2025-05-24 14:35:58,808 - WARNING - Background image not found: C:\Users\desktop_files\Desktop\wp10992174.webp
+2025-05-24 14:35:58,808 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 14:35:59,321 - INFO - Successfully loaded ImageNet classes
+2025-05-24 14:36:47,934 - WARNING - Background image not found: C:\Users\desktop_files\Desktop\wp10992174.webp
+2025-05-24 14:36:47,938 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 14:36:48,141 - INFO - Successfully loaded ImageNet classes
+2025-05-24 14:39:20,620 - WARNING - Background image not found: C:\Users\desktop_files\Desktop\wp10992174.webp
+2025-05-24 14:39:20,623 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 14:39:20,851 - INFO - Successfully loaded ImageNet classes
+2025-05-24 14:39:22,741 - WARNING - Background image not found: C:\Users\desktop_files\Desktop\wp10992174.webp
+2025-05-24 14:39:22,741 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 14:39:22,751 - INFO - Cache cleared by user
+2025-05-24 14:40:17,342 - WARNING - Background image not found: C:\Users\desktop_files\Desktop\wp10992174.webp
+2025-05-24 14:40:17,354 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 14:40:17,512 - INFO - Successfully loaded ImageNet classes
+2025-05-24 14:44:10,349 - WARNING - Background image not found: C:\Users\desktop_files\Desktop\wp10992174.webp
+2025-05-24 14:44:24,892 - WARNING - Background image not found: C:\Users\desktop_files\Desktop\wp10992174.webp
+2025-05-24 14:44:24,899 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 14:44:25,380 - INFO - Successfully loaded ImageNet classes
+2025-05-24 14:46:34,297 - WARNING - Background image not found: C:\Users\desktop_files\Desktop\wp10992174.webp
+2025-05-24 14:46:34,300 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 14:46:34,478 - INFO - Successfully loaded ImageNet classes
+2025-05-24 14:49:12,591 - WARNING - Background image not found: C:\Users\desktop_files\Desktop\wp10992174.webp
+2025-05-24 14:49:28,234 - WARNING - Background image not found: C:\Users\desktop_files\Desktop\wp10992174.webp
+2025-05-24 14:49:28,234 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 14:53:10,751 - WARNING - Background image not found: C:\Users\desktop_files\Desktop\wp10992174.webp
+2025-05-24 14:53:10,751 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 14:53:11,135 - INFO - Successfully loaded ImageNet classes
+2025-05-24 14:54:07,190 - WARNING - Background image not found: C:\Users\desktop_files\Desktop\wp10992174.webp
+2025-05-24 14:54:07,192 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 14:54:12,855 - WARNING - Background image not found: C:\Users\desktop_files\Desktop\wp10992174.webp
+2025-05-24 14:54:12,855 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 14:54:12,876 - INFO - Created upload directory: C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\Uploads
+2025-05-24 14:54:12,887 - INFO - Image saved successfully: C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\Uploads\1748078652_12f0fe52.jpg
+2025-05-24 14:54:12,908 - ERROR - Error in detect_fruit_type: 'ImageClassifier' object has no attribute 'transform'
+2025-05-24 14:54:12,908 - ERROR - Error saving prediction: save_prediction() got an unexpected keyword argument 'fruit'
+2025-05-24 14:54:38,952 - WARNING - Background image not found: C:\Users\desktop_files\Desktop\wp10992174.webp
+2025-05-24 14:54:42,261 - WARNING - Background image not found: C:\Users\desktop_files\Desktop\wp10992174.webp
+2025-05-24 14:54:44,632 - WARNING - Background image not found: C:\Users\desktop_files\Desktop\wp10992174.webp
+2025-05-24 14:54:59,868 - WARNING - Background image not found: C:\Users\desktop_files\Desktop\wp10992174.webp
+2025-05-24 14:54:59,883 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 14:55:05,235 - WARNING - Background image not found: C:\Users\desktop_files\Desktop\wp10992174.webp
+2025-05-24 14:55:05,235 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 14:55:05,254 - INFO - Image saved successfully: C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\Uploads\1748078705_b030c1bc.png
+2025-05-24 14:55:05,285 - ERROR - Error in detect_fruit_type: 'ImageClassifier' object has no attribute 'transform'
+2025-05-24 14:55:05,290 - ERROR - Error saving prediction: save_prediction() got an unexpected keyword argument 'fruit'
+2025-05-24 14:56:10,176 - WARNING - Background image not found: C:\Users\desktop_files\Desktop\wp10992174.webp
+2025-05-24 14:56:10,176 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 14:56:10,386 - INFO - Successfully loaded ImageNet classes
+2025-05-24 15:00:15,206 - WARNING - Background image not found: C:\Users\desktop_files\Desktop\wp10992174.webp
+2025-05-24 15:00:15,222 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 15:00:15,669 - INFO - Successfully loaded ImageNet classes
+2025-05-24 15:01:37,496 - WARNING - Background image not found: C:\Users\desktop_files\Desktop\wp10992174.webp
+2025-05-24 15:01:37,500 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 15:01:37,682 - INFO - Successfully loaded ImageNet classes
+2025-05-24 15:05:47,675 - WARNING - Background image not found: C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\background.jpg
+2025-05-24 15:05:47,677 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 15:05:48,204 - INFO - Successfully loaded ImageNet classes
+2025-05-24 15:11:54,421 - WARNING - Background image not found: C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\background.jpg
+2025-05-24 15:11:54,423 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 15:11:54,999 - INFO - Successfully loaded ImageNet classes
+2025-05-24 15:12:25,516 - INFO - ResNet50 loaded successfully
+2025-05-24 15:12:25,832 - ERROR - ViT model not found at C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\fruit_clsfctn_vit_scratch.pth
+2025-05-24 15:12:42,095 - WARNING - Background image not found: C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\background.jpg
+2025-05-24 15:12:42,101 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 15:12:42,183 - INFO - Image saved successfully: C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\Uploads\1748079762_979285db.png
+2025-05-24 15:12:42,216 - ERROR - Error in detect_fruit_type: 'ImageClassifier' object has no attribute 'transform'
+2025-05-24 15:12:42,216 - ERROR - Error saving prediction: save_prediction() got an unexpected keyword argument 'fruit'
+2025-05-24 15:13:51,677 - WARNING - Background image not found: C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\background.jpg
+2025-05-24 15:13:51,678 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 15:13:51,802 - INFO - Successfully loaded ImageNet classes
+2025-05-24 15:13:52,148 - INFO - ResNet50 loaded successfully
+2025-05-24 15:13:52,524 - ERROR - ViT model not found at C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\fruit_clsfctn_vit_scratch.pth
+2025-05-24 15:15:00,321 - WARNING - Background image not found: C:\Users\desktop_files\Desktop\wp10992174.webp
+2025-05-24 15:15:00,337 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 15:15:00,483 - INFO - Successfully loaded ImageNet classes
+2025-05-24 15:18:45,500 - WARNING - Background image not found: C:\Users\desktop_files\Desktop\wp10992174.webp
+2025-05-24 15:18:45,503 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 15:18:45,921 - INFO - Successfully loaded ImageNet classes
+2025-05-24 15:21:55,306 - WARNING - Background image not found: C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\wp10992174.webp
+2025-05-24 15:21:55,306 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 15:21:55,453 - INFO - Successfully loaded ImageNet classes
+2025-05-24 15:21:55,795 - INFO - ResNet50 loaded successfully
+2025-05-24 15:21:56,271 - ERROR - ViT model not found at C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\vit.pth
+2025-05-24 15:23:18,540 - WARNING - Background image not found: C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\wp10992174.webp
+2025-05-24 15:23:18,544 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 15:23:18,725 - INFO - Successfully loaded ImageNet classes
+2025-05-24 15:23:19,055 - INFO - ResNet50 loaded successfully
+2025-05-24 15:23:19,833 - INFO - ViT loaded successfully from C:\Users\choll\Downloads\vit.pth
+2025-05-24 15:23:26,366 - ERROR - Shelf life model not found at C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\shelf_life.pth
+2025-05-24 15:24:51,182 - WARNING - Background image not found: C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\wp10992174.webp
+2025-05-24 15:24:51,183 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 15:24:51,296 - WARNING - Background image not found: C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\wp10992174.webp
+2025-05-24 15:24:51,296 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 15:26:48,473 - WARNING - Background image not found: C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\wp10992174.webp
+2025-05-24 15:26:48,477 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 15:26:48,615 - WARNING - Background image not found: C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\wp10992174.webp
+2025-05-24 15:26:48,615 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 15:26:54,099 - WARNING - Background image not found: C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\wp10992174.webp
+2025-05-24 15:26:54,103 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 15:26:54,108 - INFO - Image saved successfully: C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\Uploads\1748080614_f58da609.jpg
+2025-05-24 15:26:54,121 - ERROR - Error in detect_fruit_type: 'ImageClassifier' object has no attribute 'transform'
+2025-05-24 15:26:54,121 - ERROR - Error saving prediction: save_prediction() got an unexpected keyword argument 'fruit'
+2025-05-24 15:29:04,783 - WARNING - Background image not found: C:\Users\desktop_files\Desktop\wp10992174.webp
+2025-05-24 15:29:04,787 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 15:29:05,239 - INFO - Successfully loaded ImageNet classes
+2025-05-24 15:33:26,421 - WARNING - Background image not found: C:\Users\desktop_files\Desktop\wp10992174.webp
+2025-05-24 15:33:26,421 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 15:33:26,572 - INFO - Successfully loaded ImageNet classes
+2025-05-24 15:33:31,488 - WARNING - Background image not found: C:\Users\desktop_files\Desktop\wp10992174.webp
+2025-05-24 15:33:31,488 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 15:33:31,495 - INFO - Image saved successfully: C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\Uploads\1748081011_2e72dbce.jpg
+2025-05-24 15:33:31,516 - ERROR - Error in detect_fruit_type: 'ImageClassifier' object has no attribute 'transform'
+2025-05-24 15:33:31,516 - ERROR - Error saving prediction: save_prediction() got an unexpected keyword argument 'fruit'
+2025-05-24 15:35:40,836 - WARNING - Background image not found: C:\Users\desktop_files\Desktop\wp10992174.webp
+2025-05-24 15:35:40,836 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 15:35:40,959 - WARNING - Background image not found: C:\Users\desktop_files\Desktop\wp10992174.webp
+2025-05-24 15:35:40,959 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 15:36:58,822 - WARNING - Background image not found: C:\Users\choll\Desktop\wp10992174.webp
+2025-05-24 15:36:58,824 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 15:36:59,237 - INFO - Successfully loaded ImageNet classes
+2025-05-24 15:36:59,559 - INFO - ResNet50 loaded successfully
+2025-05-24 15:37:00,128 - INFO - ViT loaded successfully from C:\Users\choll\Downloads\vit.pth
+2025-05-24 15:37:00,381 - INFO - EfficientNet-B0 loaded successfully from C:\Users\choll\Downloads\shelf_life.pth
+2025-05-24 15:37:00,381 - INFO - ImageClassifier initialized successfully
+2025-05-24 15:37:05,632 - WARNING - Background image not found: C:\Users\choll\Desktop\wp10992174.webp
+2025-05-24 15:37:05,632 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 15:37:05,642 - INFO - Image saved successfully: C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\Uploads\1748081225_a3813df0.jpg
+2025-05-24 15:37:05,876 - INFO - Fruit detection: class=pomegranate, is_fruit=True, confidence=0.0967
+2025-05-24 15:37:05,959 - INFO - Shelf life prediction: fruit=apple, condition=rotten, shelf_life=Not safe for consumption; discard, confidence=0.3415
+2025-05-24 15:37:06,183 - INFO - Freshness classification (ViT): class=STALE, confidence=96.08%
+2025-05-24 15:37:06,183 - INFO - Freshness decision: condition=rotten, label=STALE
+2025-05-24 15:37:22,306 - WARNING - Background image not found: C:\Users\choll\Desktop\wp10992174.webp
+2025-05-24 15:37:22,308 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 15:37:22,332 - INFO - Image saved successfully: C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\Uploads\1748081242_9e47c15d.jpg
+2025-05-24 15:37:22,633 - INFO - Fruit detection: class=envelope, is_fruit=False, confidence=0.0999
+2025-05-24 15:37:28,860 - WARNING - Background image not found: C:\Users\choll\Desktop\wp10992174.webp
+2025-05-24 15:37:28,864 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 15:37:28,881 - INFO - Image saved successfully: C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\Uploads\1748081248_72e877f8.jpg
+2025-05-24 15:37:29,025 - INFO - Fruit detection: class=granny smith, is_fruit=True, confidence=0.1709
+2025-05-24 15:37:29,065 - INFO - Shelf life prediction: fruit=apple, condition=ripe, shelf_life=2-4 weeks refrigerated, confidence=0.7875
+2025-05-24 15:37:29,272 - INFO - Freshness classification (ViT): class=FRESH, confidence=95.80%
+2025-05-24 15:37:29,274 - INFO - Freshness decision: condition=ripe, label=FRESH
+2025-05-24 15:37:37,623 - WARNING - Background image not found: C:\Users\choll\Desktop\wp10992174.webp
+2025-05-24 15:37:37,623 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 15:37:37,735 - WARNING - Background image not found: C:\Users\choll\Desktop\wp10992174.webp
+2025-05-24 15:37:37,736 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 15:55:32,752 - WARNING - Background image not found: C:\Users\choll\Desktop\wp10992174.webp
+2025-05-24 15:55:32,754 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 15:55:33,442 - INFO - Successfully loaded ImageNet classes
+2025-05-24 15:55:33,790 - INFO - ResNet50 loaded successfully
+2025-05-24 15:55:34,555 - INFO - ViT loaded successfully from C:\Users\choll\Downloads\vit.pth
+2025-05-24 15:55:34,608 - INFO - Swin Transformer loaded successfully from C:\Users\choll\Downloads\swin_scratch.pth
+2025-05-24 15:55:34,880 - INFO - EfficientNet-B0 loaded successfully from C:\Users\choll\Downloads\shelf_life.pth
+2025-05-24 15:55:34,880 - INFO - ImageClassifier initialized successfully
+2025-05-24 15:55:42,335 - WARNING - Background image not found: C:\Users\choll\Desktop\wp10992174.webp
+2025-05-24 15:55:42,447 - WARNING - Background image not found: C:\Users\choll\Desktop\wp10992174.webp
+2025-05-24 15:55:42,448 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 15:55:46,711 - WARNING - Background image not found: C:\Users\choll\Desktop\wp10992174.webp
+2025-05-24 15:55:46,712 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 15:55:46,719 - INFO - Image saved successfully: C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\Uploads\1748082346_80b09433.jpg
+2025-05-24 15:55:46,880 - INFO - Fruit detection: class=pomegranate, is_fruit=True, confidence=0.0967
+2025-05-24 15:55:46,946 - INFO - Shelf life prediction: fruit=apple, condition=rotten, shelf_life=Not safe for consumption; discard, confidence=0.3415
+2025-05-24 15:55:47,000 - INFO - Freshness classification (Swin): class=FRESH, confidence=57.47%
+2025-05-24 15:55:47,000 - INFO - Freshness decision: condition=rotten, label=STALE
+2025-05-24 15:55:54,819 - WARNING - Background image not found: C:\Users\choll\Desktop\wp10992174.webp
+2025-05-24 15:55:54,859 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 15:55:54,882 - INFO - Image saved successfully: C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\Uploads\1748082354_23eb784e.jpg
+2025-05-24 15:55:55,134 - INFO - Fruit detection: class=pomegranate, is_fruit=True, confidence=0.0740
+2025-05-24 15:55:55,161 - INFO - Shelf life prediction: fruit=apple, condition=ripe, shelf_life=2-4 weeks refrigerated, confidence=0.4064
+2025-05-24 15:55:55,259 - INFO - Freshness classification (Swin): class=FRESH, confidence=53.56%
+2025-05-24 15:55:55,261 - INFO - Freshness decision: condition=ripe, label=FRESH
+2025-05-24 15:56:07,429 - WARNING - Background image not found: C:\Users\choll\Desktop\wp10992174.webp
+2025-05-24 15:56:07,429 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 15:56:07,443 - INFO - Image saved successfully: C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\Uploads\1748082367_ce8275d6.jpg
+2025-05-24 15:56:07,558 - INFO - Fruit detection: class=bagel, is_fruit=False, confidence=0.0643
+2025-05-24 15:56:17,225 - WARNING - Background image not found: C:\Users\choll\Desktop\wp10992174.webp
+2025-05-24 15:56:17,237 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 15:56:17,251 - INFO - Image saved successfully: C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\Uploads\1748082377_09a02f89.jpg
+2025-05-24 15:56:17,391 - INFO - Fruit detection: class=granny smith, is_fruit=True, confidence=0.1709
+2025-05-24 15:56:17,428 - INFO - Shelf life prediction: fruit=apple, condition=ripe, shelf_life=2-4 weeks refrigerated, confidence=0.7875
+2025-05-24 15:56:17,464 - INFO - Freshness classification (Swin): class=FRESH, confidence=53.16%
+2025-05-24 15:56:17,464 - INFO - Freshness decision: condition=ripe, label=FRESH
+2025-05-24 15:56:24,136 - WARNING - Background image not found: C:\Users\choll\Desktop\wp10992174.webp
+2025-05-24 15:56:24,138 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 15:56:24,148 - INFO - Image saved successfully: C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\Uploads\1748082384_9a10128a.png
+2025-05-24 15:56:24,271 - INFO - Fruit detection: class=banana, is_fruit=True, confidence=0.2237
+2025-05-24 15:56:24,314 - INFO - Shelf life prediction: fruit=banana, condition=rotten, shelf_life=Not safe for consumption; discard, confidence=0.8940
+2025-05-24 15:56:24,351 - INFO - Freshness classification (Swin): class=STALE, confidence=51.18%
+2025-05-24 15:56:24,351 - INFO - Freshness decision: condition=rotten, label=STALE
+2025-05-24 15:56:36,512 - WARNING - Background image not found: C:\Users\choll\Desktop\wp10992174.webp
+2025-05-24 15:56:36,518 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 15:56:36,553 - INFO - Image saved successfully: C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\Uploads\1748082396_545dc254.jpg
+2025-05-24 15:56:36,710 - INFO - Fruit detection: class=granny smith, is_fruit=True, confidence=0.1709
+2025-05-24 15:56:36,760 - INFO - Shelf life prediction: fruit=apple, condition=ripe, shelf_life=2-4 weeks refrigerated, confidence=0.7875
+2025-05-24 15:56:36,810 - INFO - Freshness classification (Swin): class=FRESH, confidence=53.16%
+2025-05-24 15:56:36,810 - INFO - Freshness decision: condition=ripe, label=FRESH
+2025-05-24 16:29:07,585 - WARNING - Background image not found: C:\Users\choll\Desktop\wp10992174.webp
+2025-05-24 16:29:07,585 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 16:29:07,995 - INFO - Successfully loaded ImageNet classes
+2025-05-24 16:29:08,362 - INFO - ResNet50 loaded successfully
+2025-05-24 16:29:08,840 - ERROR - Classifier init error: invalid load key, '<'.
+2025-05-24 16:29:15,016 - WARNING - Background image not found: C:\Users\choll\Desktop\wp10992174.webp
+2025-05-24 16:29:15,019 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 16:29:15,027 - INFO - Image saved successfully: C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\Uploads\1748084355_9fbf699d.jpg
+2025-05-24 16:29:15,041 - ERROR - Error in detect_fruit_type: 'ImageClassifier' object has no attribute 'transform'
+2025-05-24 16:29:32,544 - WARNING - Background image not found: C:\Users\choll\Desktop\wp10992174.webp
+2025-05-24 16:29:32,544 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 16:29:32,553 - INFO - Image saved successfully: C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\Uploads\1748084372_7ff2855f.png
+2025-05-24 16:29:32,566 - ERROR - Error in detect_fruit_type: 'ImageClassifier' object has no attribute 'transform'
+2025-05-24 16:36:46,750 - WARNING - Background image not found: C:\Users\choll\Desktop\wp10992174.webp
+2025-05-24 16:36:46,758 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 16:36:47,224 - INFO - Successfully loaded ImageNet classes
+2025-05-24 16:36:47,542 - INFO - ResNet50 loaded successfully
+2025-05-24 16:36:47,889 - ERROR - Classifier init error: invalid load key, '<'.
+2025-05-24 16:40:41,152 - WARNING - Background image not found: C:\Users\choll\Desktop\wp10992174.webp
+2025-05-24 16:40:41,152 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 16:40:41,329 - INFO - Successfully loaded ImageNet classes
+2025-05-24 16:40:41,641 - INFO - ResNet50 loaded successfully
+2025-05-24 16:40:41,976 - ERROR - Classifier init error: invalid load key, '<'.
+2025-05-24 16:44:09,571 - WARNING - Background image not found: C:\Users\choll\Desktop\wp10992174.webp
+2025-05-24 16:44:09,571 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 16:44:10,047 - INFO - Successfully loaded ImageNet classes
+2025-05-24 16:44:10,357 - INFO - ResNet50 loaded successfully
+2025-05-24 16:44:10,905 - INFO - ViT loaded successfully from vit.pth
+2025-05-24 16:44:10,952 - INFO - Swin Transformer loaded successfully from swin_scratch.pth
+2025-05-24 16:44:11,091 - INFO - EfficientNet-B0 loaded successfully from shelf_life.pth
+2025-05-24 16:44:11,098 - INFO - ImageClassifier initialized successfully
+2025-05-24 16:46:33,088 - WARNING - Background image not found: C:\Users\choll\Desktop\wp10992174.webp
+2025-05-24 16:46:33,094 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 16:46:33,101 - INFO - Image saved successfully: C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\Uploads\1748085393_a6e0901f.jpg
+2025-05-24 16:46:33,267 - INFO - Fruit detection: class=pomegranate, is_fruit=True, confidence=0.0967
+2025-05-24 16:46:33,334 - INFO - Shelf life prediction: fruit=apple, condition=rotten, shelf_life=Not safe for consumption; discard, confidence=0.3415
+2025-05-24 16:46:33,563 - INFO - Freshness classification (ViT): class=STALE, confidence=96.08%
+2025-05-24 16:46:33,592 - INFO - Freshness decision: condition=rotten, label=STALE
+2025-05-24 16:48:50,494 - WARNING - Background image not found: C:\Users\choll\Desktop\wp10992174.webp
+2025-05-24 16:48:50,496 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 16:48:50,502 - INFO - Image saved successfully: C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\Uploads\1748085530_abea0353.png
+2025-05-24 16:48:50,633 - INFO - Fruit detection: class=granny smith, is_fruit=True, confidence=0.1067
+2025-05-24 16:48:50,697 - INFO - Shelf life prediction: fruit=apple, condition=ripe, shelf_life=2-4 weeks refrigerated, confidence=0.8255
+2025-05-24 16:48:50,914 - INFO - Freshness classification (ViT): class=STALE, confidence=89.95%
+2025-05-24 16:48:50,914 - INFO - Freshness decision: condition=ripe, label=FRESH
+2025-05-24 16:54:25,444 - WARNING - Background image not found: C:\Users\choll\Desktop\wp10992174.webp
+2025-05-24 16:54:25,446 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 16:54:32,073 - INFO - Successfully loaded ImageNet classes
+2025-05-24 16:54:32,347 - INFO - ResNet50 loaded successfully
+2025-05-24 16:54:32,635 - ERROR - Classifier init error: name 'vit_path' is not defined
+2025-05-24 17:38:11,370 - WARNING - Background image not found: C:\Users\choll\Desktop\wp10992174.webp
+2025-05-24 17:38:11,372 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 17:38:12,052 - INFO - Successfully loaded ImageNet classes
+2025-05-24 17:38:12,481 - INFO - ResNet50 loaded successfully
+2025-05-24 17:38:12,999 - INFO - ViT loaded successfully from vit.pth
+2025-05-24 17:38:13,083 - INFO - Swin Transformer loaded successfully from swin_scratch.pth
+2025-05-24 17:38:13,266 - INFO - EfficientNet-B0 loaded successfully from shelf_life.pth
+2025-05-24 17:38:13,269 - INFO - ImageClassifier initialized successfully
+2025-05-24 17:52:19,043 - WARNING - Background image not found: C:\Users\choll\Desktop\wp10992174.webp
+2025-05-24 17:52:19,059 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 17:52:19,945 - INFO - Successfully loaded ImageNet classes
+2025-05-24 17:52:20,577 - INFO - ResNet50 loaded successfully
+2025-05-24 17:52:21,514 - INFO - ViT loaded successfully from C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\vit.pth
+2025-05-24 17:52:21,593 - INFO - Swin Transformer loaded successfully from C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\swin_scratch.pth
+2025-05-24 17:52:21,894 - INFO - EfficientNet-B0 loaded successfully from C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\shelf_life.pth
+2025-05-24 17:52:21,910 - INFO - ImageClassifier initialized successfully
+2025-05-24 17:52:55,704 - WARNING - Background image not found: C:\Users\choll\Desktop\wp10992174.webp
+2025-05-24 17:52:55,708 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 17:52:55,718 - INFO - Image saved successfully: C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\Uploads\1748089375_1b52d7b6.jpg
+2025-05-24 17:52:55,990 - INFO - Fruit detection: class=pomegranate, is_fruit=True, confidence=0.0967
+2025-05-24 17:52:56,046 - INFO - Shelf life prediction: fruit=apple, condition=rotten, shelf_life=Not safe for consumption; discard, confidence=0.3415
+2025-05-24 17:52:56,230 - INFO - Freshness classification (ViT): class=STALE, confidence=96.08%
+2025-05-24 17:52:56,230 - INFO - Freshness decision: condition=rotten, label=STALE
+2025-05-24 17:53:04,064 - WARNING - Background image not found: C:\Users\choll\Desktop\wp10992174.webp
+2025-05-24 17:53:04,064 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 17:53:04,079 - INFO - Image saved successfully: C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\Uploads\1748089384_2160e175.jpg
+2025-05-24 17:53:04,196 - INFO - Fruit detection: class=envelope, is_fruit=False, confidence=0.1241
+2025-05-24 17:53:10,074 - WARNING - Background image not found: C:\Users\choll\Desktop\wp10992174.webp
+2025-05-24 17:53:10,076 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 17:53:10,081 - INFO - Image saved successfully: C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\Uploads\1748089390_72fa97bc.jpg
+2025-05-24 17:53:10,195 - INFO - Fruit detection: class=chambered nautilus, is_fruit=False, confidence=0.1271
+2025-05-24 17:53:17,033 - WARNING - Background image not found: C:\Users\choll\Desktop\wp10992174.webp
+2025-05-24 17:53:17,033 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 17:53:17,045 - INFO - Image saved successfully: C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\Uploads\1748089397_319001e0.jpg
+2025-05-24 17:53:17,145 - INFO - Fruit detection: class=strawberry, is_fruit=True, confidence=0.1960
+2025-05-24 17:53:17,178 - INFO - Shelf life prediction: fruit=apple, condition=rotten, shelf_life=Not safe for consumption; discard, confidence=0.2128
+2025-05-24 17:53:17,338 - INFO - Freshness classification (ViT): class=FRESH, confidence=94.18%
+2025-05-24 17:53:17,338 - INFO - Freshness decision: condition=rotten, label=STALE
+2025-05-24 17:53:27,394 - WARNING - Background image not found: C:\Users\choll\Desktop\wp10992174.webp
+2025-05-24 17:53:27,396 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 17:53:27,403 - INFO - Image saved successfully: C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\Uploads\1748089407_92665bc3.jpg
+2025-05-24 17:53:27,497 - INFO - Fruit detection: class=granny smith, is_fruit=True, confidence=0.2238
+2025-05-24 17:53:27,528 - INFO - Shelf life prediction: fruit=apple, condition=ripe, shelf_life=2-4 weeks refrigerated, confidence=0.8793
+2025-05-24 17:53:27,685 - INFO - Freshness classification (ViT): class=STALE, confidence=89.80%
+2025-05-24 17:53:27,685 - INFO - Freshness decision: condition=ripe, label=FRESH
+2025-05-24 17:53:35,574 - WARNING - Background image not found: C:\Users\choll\Desktop\wp10992174.webp
+2025-05-24 17:53:35,576 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 17:53:35,580 - INFO - Image saved successfully: C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\Uploads\1748089415_6781481a.jpg
+2025-05-24 17:53:35,676 - INFO - Fruit detection: class=bagel, is_fruit=False, confidence=0.0643
+2025-05-24 17:53:54,451 - WARNING - Background image not found: C:\Users\choll\Desktop\wp10992174.webp
+2025-05-24 17:53:54,451 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 17:53:54,463 - INFO - Image saved successfully: C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\Uploads\1748089434_594d4aa6.png
+2025-05-24 17:53:54,557 - INFO - Fruit detection: class=banana, is_fruit=True, confidence=0.2237
+2025-05-24 17:53:54,596 - INFO - Shelf life prediction: fruit=banana, condition=rotten, shelf_life=Not safe for consumption; discard, confidence=0.8940
+2025-05-24 17:53:54,728 - INFO - Freshness classification (ViT): class=STALE, confidence=95.76%
+2025-05-24 17:53:54,728 - INFO - Freshness decision: condition=rotten, label=STALE
+2025-05-24 17:56:14,427 - WARNING - Background image not found: C:\Users\choll\Desktop\wp10992174.webp
+2025-05-24 17:56:14,428 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 17:56:14,434 - INFO - Image saved successfully: C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\Uploads\1748089574_7f9fb670.jpg
+2025-05-24 17:56:14,517 - INFO - Fruit detection: class=strawberry, is_fruit=True, confidence=0.5146
+2025-05-24 17:56:14,544 - INFO - Shelf life prediction: fruit=strawberry, condition=overripe, shelf_life=1-2 days refrigerated; use for jams or smoothies, confidence=0.7142
+2025-05-24 17:56:14,684 - INFO - Freshness classification (ViT): class=FRESH, confidence=94.73%
+2025-05-24 17:56:14,684 - INFO - Freshness decision: condition=overripe, label=FRESH
+2025-05-24 17:56:32,824 - WARNING - Background image not found: C:\Users\choll\Desktop\wp10992174.webp
+2025-05-24 17:56:32,826 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 17:56:32,830 - INFO - Image saved successfully: C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\Uploads\1748089592_bdeb8f33.jpg
+2025-05-24 17:56:32,926 - INFO - Fruit detection: class=strawberry, is_fruit=True, confidence=0.4566
+2025-05-24 17:56:32,959 - INFO - Shelf life prediction: fruit=strawberry, condition=overripe, shelf_life=1-2 days refrigerated; use for jams or smoothies, confidence=0.5624
+2025-05-24 17:56:33,097 - INFO - Freshness classification (ViT): class=FRESH, confidence=94.23%
+2025-05-24 17:56:33,097 - INFO - Freshness decision: condition=overripe, label=FRESH
+2025-05-24 17:56:56,387 - WARNING - Background image not found: C:\Users\choll\Desktop\wp10992174.webp
+2025-05-24 17:56:56,388 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 17:56:56,393 - INFO - Image saved successfully: C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\Uploads\1748089616_af63c8c5.jpg
+2025-05-24 17:56:56,489 - INFO - Fruit detection: class=strawberry, is_fruit=True, confidence=0.4722
+2025-05-24 17:56:56,507 - INFO - Shelf life prediction: fruit=strawberry, condition=overripe, shelf_life=1-2 days refrigerated; use for jams or smoothies, confidence=0.5334
+2025-05-24 17:56:56,655 - INFO - Freshness classification (ViT): class=FRESH, confidence=93.16%
+2025-05-24 17:56:56,656 - INFO - Freshness decision: condition=overripe, label=FRESH
+2025-05-24 20:00:03,951 - WARNING - Background image not found: C:\Users\choll\Desktop\wp10992174.webp
+2025-05-24 20:00:22,884 - WARNING - Background image not found: C:\Users\choll\Desktop\wp10992174.webp
+2025-05-24 20:00:22,886 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 20:00:23,352 - INFO - Successfully loaded ImageNet classes
+2025-05-24 20:00:23,666 - INFO - ResNet50 loaded successfully
+2025-05-24 20:00:24,277 - INFO - ViT loaded successfully from C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\vit.pth
+2025-05-24 20:00:24,327 - INFO - Swin Transformer loaded successfully from C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\swin_scratch.pth
+2025-05-24 20:00:24,466 - INFO - EfficientNet-B0 loaded successfully from C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\shelf_life.pth
+2025-05-24 20:00:24,475 - INFO - ImageClassifier initialized successfully
+2025-05-24 20:28:05,146 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 20:28:05,569 - INFO - Successfully loaded ImageNet classes
+2025-05-24 20:45:43,181 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 20:45:43,667 - INFO - Successfully loaded ImageNet classes
+2025-05-24 20:45:43,985 - INFO - ResNet50 loaded successfully
+2025-05-24 20:45:44,538 - INFO - ViT loaded successfully from C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\vit.pth
+2025-05-24 20:45:44,566 - INFO - Swin Transformer loaded successfully from C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\swin_scratch.pth
+2025-05-24 20:45:44,687 - INFO - EfficientNet-B0 loaded successfully from C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\shelf_life.pth
+2025-05-24 20:45:44,695 - INFO - ImageClassifier initialized successfully
+2025-05-24 20:46:03,532 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 20:46:03,547 - INFO - Image saved successfully: C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\Uploads\1748099763_7c8d08a1.jpg
+2025-05-24 20:46:03,733 - INFO - Fruit detection: class=pomegranate, is_fruit=True, confidence=0.0967
+2025-05-24 20:46:03,802 - INFO - Shelf life prediction: fruit=apple, condition=rotten, shelf_life=Not safe for consumption; discard, confidence=0.3415
+2025-05-24 20:46:04,065 - INFO - Freshness classification (ViT): class=STALE, confidence=96.08%
+2025-05-24 20:46:04,084 - INFO - Freshness decision: condition=rotten, label=STALE
+2025-05-24 20:46:13,706 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 20:46:13,715 - INFO - Image saved successfully: C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\Uploads\1748099773_3e6af5db.png
+2025-05-24 20:46:13,868 - INFO - Fruit detection: class=banana, is_fruit=True, confidence=0.2237
+2025-05-24 20:46:13,914 - INFO - Shelf life prediction: fruit=banana, condition=rotten, shelf_life=Not safe for consumption; discard, confidence=0.8940
+2025-05-24 20:46:14,149 - INFO - Freshness classification (ViT): class=STALE, confidence=95.76%
+2025-05-24 20:46:14,149 - INFO - Freshness decision: condition=rotten, label=STALE
+2025-05-24 20:46:22,072 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 20:46:22,079 - INFO - Image saved successfully: C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\Uploads\1748099782_a5704e66.jpg
+2025-05-24 20:46:22,254 - INFO - Fruit detection: class=bagel, is_fruit=False, confidence=0.0643
+2025-05-24 20:46:30,628 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 20:46:30,640 - INFO - Image saved successfully: C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\Uploads\1748099790_532fb738.jpg
+2025-05-24 20:46:30,776 - INFO - Fruit detection: class=granny smith, is_fruit=True, confidence=0.1709
+2025-05-24 20:46:30,813 - INFO - Shelf life prediction: fruit=apple, condition=ripe, shelf_life=2-4 weeks refrigerated, confidence=0.7875
+2025-05-24 20:46:31,026 - INFO - Freshness classification (ViT): class=FRESH, confidence=95.80%
+2025-05-24 20:46:31,028 - INFO - Freshness decision: condition=ripe, label=FRESH
+2025-05-24 20:46:38,876 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 20:46:48,572 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 20:46:48,577 - INFO - Image saved successfully: C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\Uploads\1748099808_4262cf72.jpg
+2025-05-24 20:46:48,735 - INFO - Fruit detection: class=granny smith, is_fruit=True, confidence=0.2238
+2025-05-24 20:46:48,777 - INFO - Shelf life prediction: fruit=apple, condition=ripe, shelf_life=2-4 weeks refrigerated, confidence=0.8793
+2025-05-24 20:46:48,999 - INFO - Freshness classification (Swin): class=FRESH, confidence=59.06%
+2025-05-24 20:46:48,999 - INFO - Freshness decision: condition=ripe, label=FRESH
+2025-05-24 20:46:58,604 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 20:46:59,162 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 22:26:10,203 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 22:26:10,691 - INFO - Successfully loaded ImageNet classes
+2025-05-24 22:26:11,451 - INFO - ResNet50 loaded successfully
+2025-05-24 22:26:12,436 - INFO - ViT loaded successfully from C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\vit.pth
+2025-05-24 22:26:12,574 - INFO - Swin Transformer loaded successfully from C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\swin_scratch.pth
+2025-05-24 22:26:12,935 - INFO - EfficientNet-B0 loaded successfully from C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\shelf_life.pth
+2025-05-24 22:26:12,935 - INFO - ImageClassifier initialized successfully
+2025-05-24 22:26:39,614 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 22:26:40,924 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 22:29:09,981 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 22:41:11,292 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 22:41:11,703 - INFO - Successfully loaded ImageNet classes
+2025-05-24 22:41:11,965 - INFO - ResNet50 loaded successfully
+2025-05-24 22:41:12,379 - INFO - ViT loaded successfully from C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\vit.pth
+2025-05-24 22:41:12,403 - INFO - Swin Transformer loaded successfully from C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\swin_scratch.pth
+2025-05-24 22:41:12,508 - INFO - EfficientNet-B0 loaded successfully from C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\shelf_life.pth
+2025-05-24 22:41:12,508 - INFO - ImageClassifier initialized successfully
+2025-05-24 22:53:55,774 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 22:53:56,270 - INFO - Successfully loaded ImageNet classes
+2025-05-24 22:53:56,925 - INFO - ResNet50 loaded successfully
+2025-05-24 22:53:57,855 - INFO - ViT loaded successfully from C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\vit.pth
+2025-05-24 22:53:57,929 - INFO - Swin Transformer loaded successfully from C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\swin_scratch.pth
+2025-05-24 22:53:58,205 - INFO - EfficientNet-B0 loaded successfully from C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\shelf_life.pth
+2025-05-24 22:53:58,221 - INFO - ImageClassifier initialized successfully
+2025-05-24 22:54:05,518 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 22:54:06,705 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 23:00:44,833 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 23:00:45,277 - INFO - Successfully loaded ImageNet classes
+2025-05-24 23:00:45,941 - INFO - ResNet50 loaded successfully
+2025-05-24 23:00:46,918 - INFO - ViT loaded successfully from C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\vit.pth
+2025-05-24 23:00:46,966 - INFO - Swin Transformer loaded successfully from C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\swin_scratch.pth
+2025-05-24 23:00:47,247 - INFO - EfficientNet-B0 loaded successfully from C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\shelf_life.pth
+2025-05-24 23:00:47,253 - INFO - ImageClassifier initialized successfully
+2025-05-24 23:01:32,671 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 23:01:32,688 - INFO - Image saved successfully: C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\Uploads\1748107892_542998b3.jpg
+2025-05-24 23:01:33,181 - INFO - Fruit detection: class=strawberry, is_fruit=True, confidence=0.5234
+2025-05-24 23:03:02,857 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 23:03:03,090 - INFO - Successfully loaded ImageNet classes
+2025-05-24 23:03:03,740 - INFO - ResNet50 loaded successfully
+2025-05-24 23:03:04,760 - INFO - ViT loaded successfully from C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\vit.pth
+2025-05-24 23:03:04,811 - INFO - Swin Transformer loaded successfully from C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\swin_scratch.pth
+2025-05-24 23:03:05,107 - INFO - EfficientNet-B0 loaded successfully from C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\shelf_life.pth
+2025-05-24 23:03:05,117 - INFO - ImageClassifier initialized successfully
+2025-05-24 23:03:07,619 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 23:03:21,270 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 23:03:21,290 - INFO - Image saved successfully: C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\Uploads\1748108001_daa87293.jpg
+2025-05-24 23:03:21,609 - INFO - Fruit detection: class=strawberry, is_fruit=True, confidence=0.5234
+2025-05-24 23:03:22,285 - INFO - Freshness classification (ViT): class=FRESH, confidence=92.62%
+2025-05-24 23:03:22,396 - INFO - Shelf life prediction: fruit=strawberry, condition=overripe, shelf_life=1-2 days refrigerated; use for jams or smoothies, confidence=0.4624
+2025-05-24 23:04:45,479 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 23:04:45,680 - INFO - Successfully loaded ImageNet classes
+2025-05-24 23:04:46,359 - INFO - ResNet50 loaded successfully
+2025-05-24 23:04:47,327 - INFO - ViT loaded successfully from C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\vit.pth
+2025-05-24 23:04:47,391 - INFO - Swin Transformer loaded successfully from C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\swin_scratch.pth
+2025-05-24 23:04:47,695 - INFO - EfficientNet-B0 loaded successfully from C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\shelf_life.pth
+2025-05-24 23:04:47,711 - INFO - ImageClassifier initialized successfully
+2025-05-24 23:04:57,502 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 23:04:57,535 - INFO - Image saved successfully: C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\Uploads\1748108097_61544555.jpg
+2025-05-24 23:04:57,842 - INFO - Fruit detection: class=strawberry, is_fruit=True, confidence=0.5234
+2025-05-24 23:04:58,255 - INFO - Freshness classification (ViT): class=FRESH, confidence=92.62%
+2025-05-24 23:04:58,344 - INFO - Shelf life prediction: fruit=strawberry, condition=overripe, shelf_life=1-2 days refrigerated; use for jams or smoothies, confidence=0.4624
+2025-05-24 23:06:11,165 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 23:06:11,772 - INFO - Successfully loaded ImageNet classes
+2025-05-24 23:06:12,419 - INFO - ResNet50 loaded successfully
+2025-05-24 23:06:13,358 - INFO - ViT loaded successfully from C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\vit.pth
+2025-05-24 23:06:13,404 - INFO - Swin Transformer loaded successfully from C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\swin_scratch.pth
+2025-05-24 23:06:13,683 - INFO - EfficientNet-B0 loaded successfully from C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\shelf_life.pth
+2025-05-24 23:06:13,699 - INFO - ImageClassifier initialized successfully
+2025-05-24 23:06:21,581 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 23:06:21,627 - INFO - Image saved successfully: C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\Uploads\1748108181_092364e3.jpg
+2025-05-24 23:06:21,947 - INFO - Fruit detection: class=pomegranate, is_fruit=True, confidence=0.0967
+2025-05-24 23:06:22,312 - INFO - Freshness classification (ViT): class=STALE, confidence=96.08%
+2025-05-24 23:06:22,405 - INFO - Shelf life prediction: fruit=apple, condition=rotten, shelf_life=Not safe for consumption; discard, confidence=0.3415
+2025-05-24 23:07:46,910 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 23:07:47,158 - INFO - Successfully loaded ImageNet classes
+2025-05-24 23:07:47,813 - INFO - ResNet50 loaded successfully
+2025-05-24 23:07:48,785 - INFO - ViT loaded successfully from C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\vit.pth
+2025-05-24 23:07:48,829 - INFO - Swin Transformer loaded successfully from C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\swin_scratch.pth
+2025-05-24 23:07:49,108 - INFO - EfficientNet-B0 loaded successfully from C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\shelf_life.pth
+2025-05-24 23:07:49,108 - INFO - ImageClassifier initialized successfully
+2025-05-24 23:08:00,054 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 23:08:00,090 - INFO - Image saved successfully: C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\Uploads\1748108280_e06cde1b.png
+2025-05-24 23:08:00,300 - INFO - Fruit detection: class=hook, is_fruit=False, confidence=0.3911
+2025-05-24 23:08:15,496 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 23:08:15,526 - INFO - Image saved successfully: C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\Uploads\1748108295_84cc715d.jpg
+2025-05-24 23:08:15,829 - INFO - Fruit detection: class=granny smith, is_fruit=True, confidence=0.2238
+2025-05-24 23:08:16,327 - INFO - Freshness classification (ViT): class=STALE, confidence=89.80%
+2025-05-24 23:08:16,451 - INFO - Shelf life prediction: fruit=apple, condition=ripe, shelf_life=2-4 weeks refrigerated, confidence=0.8793
+2025-05-24 23:14:28,613 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 23:14:29,924 - INFO - Successfully loaded ImageNet classes
+2025-05-24 23:14:30,278 - INFO - ResNet50 loaded successfully
+2025-05-24 23:14:30,924 - INFO - ViT loaded successfully from C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\vit.pth
+2025-05-24 23:14:30,949 - INFO - Swin Transformer loaded successfully from C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\swin_scratch.pth
+2025-05-24 23:14:31,127 - INFO - EfficientNet-B0 loaded successfully from C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\shelf_life.pth
+2025-05-24 23:14:31,133 - INFO - ImageClassifier initialized successfully
+2025-05-24 23:14:42,670 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 23:14:42,692 - INFO - Image saved successfully: C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\Uploads\1748108682_77555491.jpg
+2025-05-24 23:14:42,869 - INFO - Fruit detection: class=bagel, is_fruit=False, confidence=0.0643
+2025-05-24 23:16:56,196 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 23:16:56,349 - INFO - Successfully loaded ImageNet classes
+2025-05-24 23:16:56,624 - INFO - ResNet50 loaded successfully
+2025-05-24 23:16:57,142 - INFO - ViT loaded successfully from C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\vit.pth
+2025-05-24 23:16:57,194 - INFO - Swin Transformer loaded successfully from C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\swin_scratch.pth
+2025-05-24 23:16:57,342 - INFO - EfficientNet-B0 loaded successfully from C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\shelf_life.pth
+2025-05-24 23:16:57,346 - INFO - ImageClassifier initialized successfully
+2025-05-24 23:17:14,778 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 23:17:14,797 - INFO - Image saved successfully: C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\Uploads\1748108834_021071a6.jpg
+2025-05-24 23:17:15,009 - INFO - Fruit detection: class=granny smith, is_fruit=True, confidence=0.1709
+2025-05-24 23:17:15,248 - INFO - Freshness classification (ViT): class=FRESH, confidence=95.80%
+2025-05-24 23:17:15,326 - INFO - Shelf life prediction: fruit=apple, condition=ripe, shelf_life=2-4 weeks refrigerated, confidence=0.7875
+2025-05-24 23:19:22,452 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 23:19:22,620 - INFO - Successfully loaded ImageNet classes
+2025-05-24 23:19:22,981 - INFO - ResNet50 loaded successfully
+2025-05-24 23:19:23,643 - INFO - ViT loaded successfully from C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\vit.pth
+2025-05-24 23:19:23,678 - INFO - Swin Transformer loaded successfully from C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\swin_scratch.pth
+2025-05-24 23:19:23,898 - INFO - EfficientNet-B0 loaded successfully from C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\shelf_life.pth
+2025-05-24 23:19:23,898 - INFO - ImageClassifier initialized successfully
+2025-05-24 23:19:33,369 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 23:19:33,384 - INFO - Image saved successfully: C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\Uploads\1748108973_d6c59411.jpg
+2025-05-24 23:19:33,546 - INFO - Fruit detection: class=pomegranate, is_fruit=True, confidence=0.0967
+2025-05-24 23:19:33,808 - INFO - Freshness classification (ViT): class=STALE, confidence=96.08%
+2025-05-24 23:19:33,898 - INFO - Shelf life prediction: fruit=apple, condition=rotten, shelf_life=Not safe for consumption; discard, confidence=0.3415
+2025-05-24 23:20:05,364 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 23:20:05,868 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 23:21:49,373 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 23:21:49,740 - INFO - Successfully loaded ImageNet classes
+2025-05-24 23:21:50,051 - INFO - ResNet50 loaded successfully
+2025-05-24 23:21:50,617 - INFO - ViT loaded successfully from C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\vit.pth
+2025-05-24 23:21:50,645 - INFO - Swin Transformer loaded successfully from C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\swin_scratch.pth
+2025-05-24 23:21:50,820 - INFO - EfficientNet-B0 loaded successfully from C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\shelf_life.pth
+2025-05-24 23:21:50,820 - INFO - ImageClassifier initialized successfully
+2025-05-24 23:21:59,264 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 23:21:59,289 - INFO - Image saved successfully: C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\Uploads\1748109119_0db81a64.jpg
+2025-05-24 23:21:59,457 - INFO - Fruit detection: class=pomegranate, is_fruit=True, confidence=0.0967
+2025-05-24 23:21:59,740 - INFO - Freshness classification (ViT): class=STALE, confidence=96.08%
+2025-05-24 23:21:59,821 - INFO - Shelf life prediction: fruit=apple, condition=rotten, shelf_life=Not safe for consumption; discard, confidence=0.3415
+2025-05-24 23:22:15,931 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 23:22:25,939 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 23:22:25,948 - INFO - Image saved successfully: C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\Uploads\1748109145_05869ba4.jpg
+2025-05-24 23:22:26,091 - INFO - Fruit detection: class=pomegranate, is_fruit=True, confidence=0.0967
+2025-05-24 23:22:26,149 - INFO - Freshness classification (Swin): class=FRESH, confidence=57.47%
+2025-05-24 23:22:26,197 - INFO - Shelf life prediction: fruit=apple, condition=rotten, shelf_life=Not safe for consumption; discard, confidence=0.3415
+2025-05-24 23:22:43,319 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 23:22:43,862 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 23:23:57,940 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 23:23:58,093 - INFO - Successfully loaded ImageNet classes
+2025-05-24 23:23:58,430 - INFO - ResNet50 loaded successfully
+2025-05-24 23:23:59,056 - INFO - ViT loaded successfully from C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\vit.pth
+2025-05-24 23:23:59,085 - INFO - Swin Transformer loaded successfully from C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\swin_scratch.pth
+2025-05-24 23:23:59,258 - INFO - EfficientNet-B0 loaded successfully from C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\shelf_life.pth
+2025-05-24 23:23:59,261 - INFO - ImageClassifier initialized successfully
+2025-05-24 23:24:20,007 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 23:24:20,026 - INFO - Image saved successfully: C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\Uploads\1748109260_cd8dd778.jpg
+2025-05-24 23:24:20,174 - INFO - Fruit detection: class=pomegranate, is_fruit=True, confidence=0.0967
+2025-05-24 23:24:20,450 - INFO - Freshness classification (ViT): class=STALE, confidence=96.08%
+2025-05-24 23:24:20,526 - INFO - Shelf life prediction: fruit=apple, condition=rotten, shelf_life=Not safe for consumption; discard, confidence=0.3415
+2025-05-24 23:27:05,426 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 23:27:06,657 - INFO - Successfully loaded ImageNet classes
+2025-05-24 23:27:06,978 - INFO - ResNet50 loaded successfully
+2025-05-24 23:27:07,670 - INFO - ViT loaded successfully from C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\vit.pth
+2025-05-24 23:27:07,688 - INFO - Swin Transformer loaded successfully from C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\swin_scratch.pth
+2025-05-24 23:27:07,873 - INFO - EfficientNet-B0 loaded successfully from C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\shelf_life.pth
+2025-05-24 23:27:07,877 - INFO - ImageClassifier initialized successfully
+2025-05-24 23:27:14,830 - INFO - User logged in: cholleti@gmail.com
+2025-05-24 23:27:14,852 - INFO - Image saved successfully: C:\Users\choll\OneDrive\stale_fruit_final\stale-fruit-detector-app\pages\Uploads\1748109434_3a4e977d.jpg
+2025-05-24 23:27:15,024 - INFO - Fruit detection: class=pomegranate, is_fruit=True, confidence=0.0967
+2025-05-24 23:27:15,312 - INFO - Freshness classification (ViT): class=STALE, confidence=96.08%
+2025-05-24 23:27:15,392 - INFO - Shelf life prediction: fruit=apple, condition=rotten, shelf_life=Not safe for consumption; discard, confidence=0.3415
