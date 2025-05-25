@@ -1,4 +1,4 @@
-﻿streamlit>=1.24.0
+streamlit>=1.24.0
 torch==2.2.0
 torchvision==0.17.0
 Pillow==10.2.0
@@ -9,16 +9,7 @@ pandas==2.2.0
 python-dotenv>=1.0.0
 numpy==1.26.4
 scikit-learn==1.4.0
-hashlib>=20081119
-streamlit
-torch
-torchvision
-Pillow
-matplotlib
-gdown
-pymongo
 pygments==2.19.1
 mdurl==0.1.2
 markdown-it-py==3.0.0
 rich==14.0.0
-
