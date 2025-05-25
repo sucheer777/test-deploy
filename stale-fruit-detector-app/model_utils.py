@@ -174,7 +174,7 @@ class TransformerBlock(nn.Module):
 class ViT(nn.Module):
     def __init__(self, img_size=224, in_channels=3, patch_size=16, embedding_dims=768,
                  num_transformer_layers=12, mlp_dropout=0.1, attn_dropout=0.0,
-                 mlp_size=3072, num_heads=12, num_classes=1000):
+                 mlp_size=3072, num_heads=12, num_classes=2):
         super().__init__()
 
         self.patch_embedding_layer = PatchEmbeddingLayer(in_channels=in_channels,
